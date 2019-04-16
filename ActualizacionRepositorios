@@ -1,1 +1,7 @@
-
+1- ingresar pagina https://debgen.simplylinux.ch/
+2- selecionar una distribucion establa en caso (stable stretch)
+3-copiar repositorios ir hasta lo ultimo de la pagina
+3- dirigires  a carpetos en modo superusuario etc/apt/sources.list
+4-pegar los repositorios 
+5-apt-get update
+6-apt-get upgrade
