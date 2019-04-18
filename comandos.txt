@@ -1,0 +1,10 @@
+--comandos debian utiles--
+--listar porcesos
+top
+--copiar
+cp lugar destino
+--remover
+rm archivo
+--remover carpeta con archivios
+rm -r carpeta
+
