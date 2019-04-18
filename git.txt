@@ -1,0 +1,5 @@
+1--intalar git--
+apt-get intalla git
+2--configuracion inicial
+git config --global user.name "rene jalvin"
+git config --global user.email "jalvinrene@gmail.com"
