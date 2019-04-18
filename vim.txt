@@ -1,0 +1,11 @@
+---instalacion del vim
+1--comando de instalacion--
+apt-get install vim
+2--configuracion
+vi /.vimrc
+--sintaxis archivo--
+syntax on
+set number (enumera lineas)
+set ic
+--fin archivo
+
