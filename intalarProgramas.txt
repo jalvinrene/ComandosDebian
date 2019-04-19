@@ -1,0 +1,5 @@
+--formato .deb--
+--instalar--
+dpkg -i nombre.deb
+--desinstalar
+dpkg -r nombre.deb
